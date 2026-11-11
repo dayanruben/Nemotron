@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "jupyter==1.1.1",
-    "langgraph-cli[inmem]==0.4.30",
+    "langgraph-cli[inmem]==0.4.32.dev0",
     "nemo-gym==0.3.0",
     "pydantic>=2.12,<3",
     "requests>=2.32,<3",

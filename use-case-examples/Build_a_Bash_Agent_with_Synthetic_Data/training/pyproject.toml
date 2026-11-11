@@ -8,7 +8,7 @@ dependencies = [
     "datasets>=3.4.1,<4.4,!=4.0.*,!=4.1.0",
     "einops>=0.8.1,<0.9",
     "jupyter==1.1.1",
-    "langgraph-cli[inmem]==0.4.30",
+    "langgraph-cli[inmem]==0.4.32.dev0",
     "nemo-gym==0.3.0",
     "ninja>=1.13,<2",
     "peft>=0.18,<0.20",
